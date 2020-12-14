@@ -20,64 +20,6 @@
 
 		<section id="main">
 
-
-			<!-- Trasa Moja pozycja -> adres -->
-
-			<!-- <a class="tytul" href="#">Aktualna lokalizacja -> Adres<span>&#9660;</span></a>
-			<div class="podtytul">
-				<div>
-					<label>Podaj adres docelowy: (miasto ulica nr)</label>
-				</div>
-				<div>
-					<input type="text" id="cel1" />	
-				</div>
-				<br/>
-				<button id="but1" class="btn btn-primary">Wyznacz trasę</button>
-				<br/><br/>
-				<hr>
-			</div> -->
-
-
-			<!-- Trasa adres -> adres -->
-
-			<!-- <a class="tytul" href="#">Adres -> Adres<span>&#9660;</span></a>
-			<div class="podtytul">
-				<div>
-					<label for="skad">Skąd - podaj adres (miasto ulica nr)</label>
-				</div>
-				<div>
-					<input type="text" id="skad" width="100"/>	
-				</div><br/>	
-				<div>
-					Dokąd - podaj adres (miasto ulica nr)
-				</div>
-				<div>
-					<input type="text" id="cel2" />	
-				</div>
-				<br/>
-				<button id="but2" class="btn btn-primary">Wyznacz trasę</button>
-				<br/><br/>
-				<hr>
-			</div> -->
-
-
-			<!-- Trasa Moja pozycja -> koordynaty -->
-
-			<!-- <a class="tytul" href="#">Aktualna lokalizacja -> koordynaty<span>&#9660;</span></a>
-			<div class="podtytul">
-				<div>
-					<label>Podaj koordynaty np. : 54.35862641742998, 18.720765856944354</label>
-				</div>
-				<div>
-					<input type="text" id="coords" />	
-				</div>
-				<br/>
-				<button id="but3" class="btn btn-primary">Wyznacz trasę</button>
-				<br/><br/>
-				<hr>
-			</div> -->
-			
-
 			<!-- Trasa do wybranego przystanku - SELECT -->
 			<a class="tytul" href="#">Aktualna lokalizacja -> Przystank wybrany <span>&#9660;</span></a>
 			<div class="podtytul">
@@ -120,8 +62,6 @@
 				<hr>
 				<br/><br/>			
 			</div>
-			
-
 
 		</section>
 
