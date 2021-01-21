@@ -13,7 +13,7 @@
 		<div id="wrapper" class="">
 
 		<header>
-			<h2>Wyznaczenie trasy</h2>
+			<h2>Wyznaczanie trasy</h2>
 		</header>
 		
 		<hr/>

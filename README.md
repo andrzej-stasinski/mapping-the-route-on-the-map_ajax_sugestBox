@@ -20,12 +20,6 @@
 * example for app - http://localhost/app/
 
 
-UWAGA AS
-usunąć - trasa_do.html
-usunąć kody html i script
-
-
-
 
 
 
