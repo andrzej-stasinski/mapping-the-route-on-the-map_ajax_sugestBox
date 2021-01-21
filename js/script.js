@@ -154,7 +154,7 @@
 			XHR.addEventListener('error', function () {
 				return reject(xhr.statusText);
 			});
-			var url = './server/trasa_przystanki.php';
+			var url = './server/trasa_przystanki.json';
 			XHR.open('GET', url, true);
 			XHR.send();
 		});
